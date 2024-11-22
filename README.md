@@ -56,3 +56,94 @@ Here are some ideas to get you started:
    Recently graduating from a 16-week intensive boot camp at the <a href="https://www.schoolofcode.co.uk/">School of Code</a>
   </h1>
  </div
+
+ ---
+
+### :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
+- :telescope: I’m currently working on my portfolio/profile page.
+- :telescope: I’m working on my <a href="https://github.com/selfcoder-gazell"><s>GitHub page</s></a>. COMPLETED
+- :seedling: I'm currently learning the Fundamentals of <a href="https://www.skillshare.com/en/classes/figma-ui-ux-design-essentials/1088693386/projects"> Figma. </a>
+<!--
+- :telescope: I’m doing a<a href="https://www.edx.org/learn/probability/harvard-university-fat-chance-probability-from-the-ground-up#:~:text=Created%20specifically%20for%20those%20who,memorization%20of%20terms%20and%20formulae."> Probability from the Ground</a> course to improve my reasoning skills and understanding of statistics. 
+- :telescope: I’m reading <a href="https://www.google.co.uk/books/edition/Clean_Code/_i6bDeoCQzsC?hl=en&gbpv=1&printsec=frontcover">Clean Code</a> book by Robert C. Martin. -->
+- :seedling: Exploring <s>What tech stack would be most suitable for my portfolio page</s>. COMPLETED - Next.js it is. 
+
+- :zap: In my leisure moments:
+  - :zap: I embrace my enduring passion for <strong>Running</strong>.
+   - :zap: I enjoy a refreshing <strong>Cold Water Immersion</strong>.
+  - :zap: My affection for <strong>mountaineering</strong> has been a companion since my youth.
+   - :zap: Lastly, my intermittent <strong>climbing</strong>.
+
+- :mailbox: How to reach me: <a href="mailto:kvetamooney@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" widht="60px" height="22px">
+  </a>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="90" height="90"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="100" height="100"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="100" height="100"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+ <img src="https://joshuapenalba.files.wordpress.com/2014/12/github-icon.png" title="GitHub" widht="70" height="70">&nbsp;&nbsp;&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="60" height="60">&nbsp;&nbsp;&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="60" height="60">&nbsp;&nbsp;&nbsp;
+</div>  
+  
+---
+
+### :fire: My Stats :
+<div align="center">
+  <a href="https://github.com/selfcoder-gazell">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfcoder-gazell&layout=compact&langs_count=16&theme=dark&hide_border="true"/>
+   
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=selfcoder-gazell&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
+  </a>
+</div>
+
+<div align="center">
+ <a href ="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=selfcoder-gazell&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+ </a>
+</div>
+  <!--
+<a href="https://github.com/selfcoder-gazell/github-readme-stats" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfcoder-gazell&theme=dark&hide_border=true"/> 
+</a>
+ -->
+
+<!-- contribution generates snake grid animation 
+https://taozhi.medium.com/how-to-add-a-snake-game-to-your-github-page-d742918fd733
+-->
+
+ <!--
+<img src="https://github.com/selfcoder-gazell/selfcoder-gazell/blob/output/github-contribution-grid-snake.svg">
+ -->
+ <br>
+ 
+ <div align="center">
+  
+ ![Codewars](https://github.r2v.ch/codewars?user=selfcoder-gazell)
+  
+ </div>
+ 
+ <div align="center">
+  
+  ![Snake animation](https://github.com/selfcoder-gazell/selfcoder-gazell/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<!--
+<div>
+ 
+![Video](https://clipchamp.com/watch/zqd8xPDd7rJ)
+
+
+
